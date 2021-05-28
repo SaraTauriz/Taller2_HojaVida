@@ -1,1 +1,3 @@
-# Taller2_HojaVida
+# Taller2 : Hoja de Vida
+TAURIZ SOLÓRZANO SARA IVETTE
+QUINTO "B"
